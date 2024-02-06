@@ -1,4 +1,4 @@
-package hw1;
+package CameraBattery;
 
 /**
  * Model of a Removable and Rechargeable Camera Battery
