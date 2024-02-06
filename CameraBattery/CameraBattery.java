@@ -1,4 +1,4 @@
-package CameraBattery;
+package CB;
 
 /**
  * Model of a Removable and Rechargeable Camera Battery
